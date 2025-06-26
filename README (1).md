@@ -63,3 +63,8 @@ Performance was acceptable across all parameters
 - **Focus Area**: Machine Learning in Environmental Monitoring  
 
 ---
+
+
+## 🔧 Project Enhancements
+- ✅ Added missing values heatmap for better data understanding and preprocessing.
+
